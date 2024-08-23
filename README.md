@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin0926&label=Profile%20views&color=0e75b6&style=flat" alt="jatin0926" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin0926" alt="jatin0926" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmers-concept-with-flat-design_23-2147850105.jpg?t=st=1724401739~exp=1724405339~hmac=cd47a87cfbe956f20c3b097b03adc064bd08c6dff052b51f121abf27e077bcc4&w=740"
+<img align="right" alt="Coding" width="400" src="./assets/profile.jpg"
 
 - 🌱 I’m currently learning *NextJS*
 
