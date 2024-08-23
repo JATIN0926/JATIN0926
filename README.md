@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin0926&label=Profile%20views&color=0e75b6&style=flat" alt="jatin0926" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin0926" alt="jatin0926" /></a> </p>
-<img align="right" alt="Coding" width="300" src="./assets/profile.jpg"
+<!-- <img align="right" alt="Coding" width="300" src="./assets/profile.jpg" -->
 
 - 🌱 I’m currently learning *NextJS*
 
