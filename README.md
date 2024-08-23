@@ -3,7 +3,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin0926" alt="jatin0926" /></a> </p>
-<img align="center" alt="Coding" width="300" src="./assets/profile.jpg"
+<!-- <img align="center" alt="Coding" width="300" src="./assets/profile.jpg" -->
 
 - 🌱 I’m currently learning *NextJS*
 
