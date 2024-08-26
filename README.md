@@ -48,6 +48,6 @@ TypeScript                               ██░░░░░░░░░░░
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin0926&show_icons=true&locale=en&layout=compact&theme=dark" alt="jatin0926" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin0926&show_icons=true&locale=en" alt="jatin0926" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin0926&show_icons=true&locale=en&theme=nightowl" alt="jatin0926" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin0926&" alt="jatin0926" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin0926&theme=monokai" alt="jatin0926" /></p>
