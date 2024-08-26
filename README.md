@@ -23,7 +23,6 @@
 </p>
 
 **My Most-Used Technologies** 
-<div align="center" style="background-color: #2E3440; padding: 20px; border-radius: 15px; color: #D8DEE9;">
 ```text
 Next.js                                  ███████████░░░░░░░░░░░░░░   43.84 %
 React.js                                 ████████░░░░░░░░░░░░░░░░░   32.01 %
@@ -32,7 +31,6 @@ Tailwind CSS                             █████████████
 GSAP / Framer Motion                     ████████░░░░░░░░░░░░░░░░░   35.01 % (Feels like magic for the basics, but summoning complex animations? That's a different story.)
 TypeScript                               ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % (Just started—still trying to convince it that I know what I’m doing.)
 ```
-</div>
 ### Top Repositories (The Ones That Actually Work)
 
 1. **[Starbucks-ReInnovated](https://github.com/JATIN0926/futuristicvisions-reimagineround1)** - *"When I thought animating would be fun... until it wasn’t."*
