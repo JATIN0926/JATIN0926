@@ -50,4 +50,4 @@ TypeScript                               ██░░░░░░░░░░░
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin0926&show_icons=true&locale=en&theme=nightowl" alt="jatin0926" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin0926&theme=synthwave84" alt="jatin0926" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin0926&theme=cobalt" alt="jatin0926" /></p>
