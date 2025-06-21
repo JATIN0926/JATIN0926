@@ -14,7 +14,7 @@
 
 - 📫 How to reach me *jatinchaudhary0905@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mMm8bHPvG9SOURWjgdoBaD8j8OcFGX_N/view?usp=drivesdk](https://drive.google.com/file/d/1mMm8bHPvG9SOURWjgdoBaD8j8OcFGX_N/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BOrXREWAKAD8MjCqQ1NWgT8fgPVPNo_f/view?usp=sharing](https://drive.google.com/file/d/1BOrXREWAKAD8MjCqQ1NWgT8fgPVPNo_f/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
